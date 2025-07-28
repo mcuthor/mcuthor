@@ -4,6 +4,16 @@
 
 <h1 align="center">Hi 👋, I'm Prince Srivastava!</h1>
 
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mcuthor&show_icons=true&locale=en&theme=shades-of-purple&count_private=true&hide_border=true" alt="mcuthor's GitHub Stats" /></p>
+
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcuthor&locale=en&theme=shades-of-purple&layout=compact&hide_border=true" alt="Top Languages" /></p>
+
+<p align="center"><img src="https://streak-stats.demolab.com/?user=mcuthor&theme=shades-of-purple&hide_border=true" alt="GitHub Streak Stats" /></p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mcuthor&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/mcuthor" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @mcuthor" /></a>
+</p>
+
 <h3 align="center">Java Developer with 2 years of experience in building scalable, user friendly Java applications. Skilled in problem-solving and passionate about learning new technologies. Known for writing clean, efficient code and thriving in collaborative, fast-paced environments.</h3>
 
 <h3 align="left">More About Me:</h3>
@@ -57,13 +67,3 @@
   <img src="https://skillicons.dev/icons?i=postman" alt="Postman" height="45" style="vertical-align: middle; margin: 5px;" />
 </p>
 </div>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mcuthor&show_icons=true&locale=en&theme=default&count_private=true&hide_border=true" alt="mcuthor's GitHub Stats" /></p>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcuthor&locale=en&theme=default&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
-<p align="center"><img src="https://streak-stats.demolab.com/?user=mcuthor&theme=default&hide_border=true" alt="GitHub Streak Stats" /></p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mcuthor&label=Profile%20views&color=brightgreen&style=flat" alt="Profile Views" />   <a href="https://github.com/sponsors/mcuthor" target="_blank" rel="noreferrer noopener"><img src="https://img.shields.io/badge/Sponsor-%E2%9D%A4-%23db61a2?logo=GitHub-Sponsors&style=social" alt="Sponsor @mcuthor" /></a>
-</p>
