@@ -37,7 +37,7 @@
   <a href="https://www.instagram.com/prince.srivastava_/" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href=https://leetcode.com/u/user7456go/" target="_blank" rel="noreferrer noopener" title="LeetCode" class="social-icon-link">
+  <a href= "https://leetcode.com/u/user7456go/" target="_blank" rel="noreferrer noopener" title="LeetCode" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="35" width="35" style="vertical-align: middle;"/>
   </a>
   <a href="https://princesrivastava.vercel.app/" target="_blank" rel="noreferrer noopener" title="Website" class="social-icon-link">
