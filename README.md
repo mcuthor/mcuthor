@@ -28,16 +28,16 @@
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
 <p style="text-align: left; display: flex; flex-wrap: wrap; align-items: center; gap: 8px;">
-<a href="https://github.com/https://github.com/mcuthor" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
+<a href="https://github.com/mcuthor" target="_blank" rel="noreferrer noopener" title="GitHub" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/github" alt="GitHub" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://linkedin.com/in/http://linkedin.com/in/prince-srivastava-960461274/" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
+  <a href="http://linkedin.com/in/prince-srivastava-960461274/" target="_blank" rel="noreferrer noopener" title="LinkedIn" class="social-icon-link">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linkedin/linkedin-original.svg" alt="LinkedIn" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://instagram.com/https://www.instagram.com/prince.srivastava_/" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
+  <a href="https://www.instagram.com/prince.srivastava_/" target="_blank" rel="noreferrer noopener" title="Instagram" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/instagram" alt="Instagram" height="35" width="35" style="vertical-align: middle;"/>
   </a>
-  <a href="https://leetcode.com/https://leetcode.com/u/user7456go/" target="_blank" rel="noreferrer noopener" title="LeetCode" class="social-icon-link">
+  <a href=https://leetcode.com/u/user7456go/" target="_blank" rel="noreferrer noopener" title="LeetCode" class="social-icon-link">
     <img src="https://cdn.simpleicons.org/leetcode" alt="LeetCode" height="35" width="35" style="vertical-align: middle;"/>
   </a>
   <a href="https://princesrivastava.vercel.app/" target="_blank" rel="noreferrer noopener" title="Website" class="social-icon-link">
