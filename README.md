@@ -1,11 +1,7 @@
 <p align="center">
   <img src="https://github.com/mcuthor/mcuthor/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.png" alt="Profile Banner" width="100%">
 </p>
-<div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250" />
-</div>
+
 
 <h1 align="center">Hi 👋, I'm Prince Srivastava!</h1>
 
