@@ -2,18 +2,16 @@
   <img src="https://github.com/mcuthor/mcuthor/blob/main/Blue%20and%20White%20Gradient%20Profile%20Data%20Analyst%20LinkedIn%20Article%20Cover%20Image.png" alt="Profile Banner" width="100%">
 </p>
 <div align="center">
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
-  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="200" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250" />
+  <img src="https://user-images.githubusercontent.com/74038190/213866269-5d00981c-7c98-46d7-8a8e-16f462f15227.gif" width="250" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Prince Srivastava!</h1>
 
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=mcuthor&show_icons=true&locale=en&theme=shades-of-purple&count_private=true&hide_border=true" alt="mcuthor's GitHub Stats" /></p>
-
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs?username=mcuthor&locale=en&theme=shades-of-purple&layout=compact&hide_border=true" alt="Top Languages" /></p>
-
 <p align="center"><img src="https://nirzak-streak-stats.vercel.app/?user=mcuthor&theme=shades-of-purple&hide_border=true" alt="GitHub Streak Stats" /></p>
 
 
