@@ -27,7 +27,7 @@
 - 💬 Ask me about: **Java development**
 - 📫 How to reach me: [sriprince.054@gmail.com](mailto:sriprince.054@gmail.com)
 - 👨‍💻 **[My Portfolio](https://princesrivastava.vercel.app/)**
-- 📄 **[My Resume](https://drive.google.com/file/d/1dbOtP3TJberpIVQZ2GA98m4F_AxDt9ST/view?usp=drivesdk)**
+- 📄 **[My Resume](https://drive.google.com/file/d/1-nz7cZDP24t5dgUnWN-taVE0wGEOIVYg/view?usp=sharing)**
 
 <h3 align="left">Connect with me:</h3>
 <div class="social-icons-wrapper">
